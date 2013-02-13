@@ -1,0 +1,1 @@
+A [Middleman](http://middlemanapp.com) template. Good for a [single page](http://timbreapp.com) site. Also integrates [Bourbon](http://bourbon.io).
