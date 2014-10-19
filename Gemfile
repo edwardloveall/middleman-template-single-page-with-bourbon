@@ -1,4 +1,5 @@
-source :rubygems
+source 'http://rubygems.org'
 
-gem "middleman", "~>3.0.10"
-gem "bourbon", "3.1.0"
+gem 'bourbon'
+gem 'middleman'
+gem 'neat'
